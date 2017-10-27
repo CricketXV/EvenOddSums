@@ -1,0 +1,7 @@
+c:\users\woodmich952\documents\visual studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\bin\Debug\EvenAndOddSums.exe.config
+C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\obj\Debug\EvenAndOddSums.csprojResolveAssemblyReference.cache
+C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\bin\Debug\input.txt
+C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\bin\Debug\EvenAndOddSums.exe
+C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\bin\Debug\EvenAndOddSums.pdb
+C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\obj\Debug\EvenAndOddSums.exe
+C:\Users\woodmich952\Documents\Visual Studio 2015\Projects\EvenAndOddSums\EvenAndOddSums\obj\Debug\EvenAndOddSums.pdb
